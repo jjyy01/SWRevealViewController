@@ -4,8 +4,8 @@ joan.*
 *xcuserdata/*
 *copy.*
 
-# From https://github.com/github/gitignore/blob/master/Objective-C.gitignore
-#
+# From https://github.com/github/gitignore/blob/master/Objective-C.gitignore # 
+####
 *.DS_Store
 build/
 *.pbxuser
